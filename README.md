@@ -25,8 +25,8 @@ Project Nonnon
 		project files of Nonnon for Mac
 		Xcode can open (maybe)
 
-		+ some apps are sold in App Store, buy me a coffee plz!
-		+ search a word "cheznonnon" in App Store
+		"Nonnon for Mac" repo has latest binaries.
+		https://github.com/cheznonnon/Nonnon_for_Mac
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -52,8 +52,8 @@ Project Nonnon
 		Nonnon for Mac のプロジェクトになるニャ
 		Xcode で開けると思うニャ
 
-		+ いくつかのアプリは App Store で売られているニャ
-		+ ストアで "cheznonnon" で検索するニャ
+		"Nonnon for Mac" リポジトリに最新のバイナリがあるニャ
+		https://github.com/cheznonnon/Nonnon_for_Mac
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
